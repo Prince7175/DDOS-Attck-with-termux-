@@ -10,4 +10,6 @@ git clone https://github.com/Prince7175/DDOS-Attck-with-termux-.git
 
 
 cd DDOS-Attck-with-termux-
+
+
 python3 ddos.py
